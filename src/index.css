@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face {
+        font-family: "LouisWalterRegular";
+        src: url("../src/assets/Sigko.ttf");
+        font-family: "Negura";
+        src: url("../src/assets/NEGURA.otf");
+        font-family: "Staubach";
+        src: url("../src/assets/Staubach.ttf");
+       
+    }
+}
+h2,h3{
+    font-family: LouisWalterRegular;
+}
+
+span{
+    font-family: Negura;
+}
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+    
