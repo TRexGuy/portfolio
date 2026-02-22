@@ -84,7 +84,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Mazandaran, Sari, Shafa St",
-  phoneNo: "+98 905 545 2681",
-  email: "eng.eli.qolizadeh@gmail.com",
+  // address: "Mazandaran, Sari, Shafa St",
+  phoneNo: "+98 913 852 8929",
+  email: "amin.dehghandehnavi@gmail.com",
 };
